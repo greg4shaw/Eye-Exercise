@@ -27,7 +27,7 @@ You will see two eyes appear and start following your mouse movements.
 ## Usage
 
 ### Usage:
-Having a rough day? Can't seem to see the positive side of things? Well you are in luck. Using this PacMan project may not only turn your day around, but quite possibly your life. Use it as often as you like. Hell, run it on various machines at the same time if you can. The more exposure to this amazing little yellow creature you expose yourself to, the more happiness you will generate in your life, and let's be honest here, there is nos such thing as too much happiness.
+Need to test your mouse is moving in the right way? Well, look no further. Launch this eye tracker and watch those two sligtly scary eyes follow your mouse as long as our heart desires.
 
 ### Expected outcomes:
 Wonder.
