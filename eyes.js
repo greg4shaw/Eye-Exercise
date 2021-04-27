@@ -1,3 +1,4 @@
+
 var balls = document.getElementsByClassName("ball");
 document.onmousemove = () => {
   var x = (event.clientX * 100) / window.innerWidth + "%";
